@@ -1,0 +1,9 @@
+document.onreadystatechange=function(){
+    console.log(document.readyState);
+    if(document.readyState=="complete"){
+        $("#caseBlanche").fadeOut();
+        $("#load-bg").css("animation-name","fadeOut");
+        $("#rin-bg").css("display","flex");
+        $("#rin-main").css("display","flex");
+    }
+}    
