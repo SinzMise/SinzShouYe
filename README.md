@@ -1,4 +1,4 @@
-# https://www.sinzmise.cf
+# SinzMise Homepage
 我的个人主页，基于[AyagawaSeirin's homepage](https://github.com/AyagawaSeirin/homepage)单页版修改
 
 在原本的基础上：<br>
